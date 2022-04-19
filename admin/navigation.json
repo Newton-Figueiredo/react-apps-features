@@ -1,0 +1,19 @@
+[
+  {
+    "section": "storeSetup",
+    "titleId": "admin/rtl.navigation.label",
+    "path": "/admin/log-images-admin",
+    "searchKeyWordsHelpers": "admin/rtl.navigation.search.kws"
+  },
+  {
+    "section": "storeSettings",
+    "subSection": "storeFront",
+    "adminVersion": 4,
+    "subSectionItems": [
+      {
+        "labelId": "admin/rtl.navigation.label",
+        "path": "/admin/log-images-admin"
+      }
+    ]
+  }
+]

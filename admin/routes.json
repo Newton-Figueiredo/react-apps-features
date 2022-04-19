@@ -1,0 +1,6 @@
+{
+  "admin.app.rtl": {
+    "component": "LogImageAdmin",
+    "path": "/admin/app/log-images-admin"
+  }
+}

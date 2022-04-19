@@ -1,4 +1,6 @@
 {
-  "admin/test": "teste",
-  "store/test": "teste"
+  "admin/test": "test",
+  "admin/rtl.navigation.label": "Log de Imagens",
+  "admin/example.navigation.search.kws": "rtl, configuration, front, invert, frontend, configuração",
+  "store/test": "test"
 }
